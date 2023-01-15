@@ -1,0 +1,14 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+section{
+    margin: 10px;
+    border: 10px;
+    padding: 10px;
+    width: 10px;
+}
+
+.campo_basico{
+    font-weight: bolder;
+}
